@@ -1,0 +1,79 @@
+@charset "UTF-8"; 
+/* CSS Document */  
+
+h1 { 
+    color:thistle;
+}
+
+.orange-col { 
+    background-color: coral;
+}
+
+.blue-col { 
+    background-color: blue; 
+}
+
+.pink-col { 
+    background-color: fuchsia;
+}
+
+.lightblue-col { 
+    background-color: lightblue; 
+    row-gap: 2em;
+}
+.lightorange-col { 
+    background-color: lightcoral;
+}
+
+.lightpink-col { 
+    background-color: lightpink;
+}
+
+.brightorgange-col{ 
+    background-color: orange;
+}
+
+.brightblue-col { 
+    background-color: lightskyblue; 
+} 
+
+.brightpink-col { 
+    background-color:rgba(255, 0, 255, 0.219);
+}
+html body { 
+    font-family: 'Poppins', sans-serif; 
+    background-color: rgba(280, 280, 280,1.0);
+} 
+
+.nav-bar-color { 
+    background-color: sandybrown !important;
+    color: black;  
+}
+
+.nav-link, .navbar-brand { 
+    color:black;
+}  
+
+.nav-highlight { 
+    color:darkcyan !important; 
+    font-weight: 200;
+} 
+
+.navbar-toggler{
+     filter: invert(100%);
+} 
+
+h1 {  
+    font-size: 1.75em; 
+    font-weight: bold; 
+
+} 
+
+h2{ 
+    font-size: 1.5em;
+    font-family: bold;
+}
+.footer-tb{  
+    background-color: darkcyan; 
+    text-align: center;
+}
